@@ -502,7 +502,27 @@
 		padding: 50px 50px 80px 50px;
 	}
 
+/*********************************************************************************/
+/* Gallery                                                                		 */
+/*********************************************************************************/
 
+	#three-gallery
+	{
+		overflow: hidden;
+		margin-bottom: 2em;
+		background: #FFF;
+		border-bottom: 4px solid #BC1414;
+		color: #525252;
+	}
+	
+	#three-gallery #gimage1,
+	#three-gallery #gimage2,
+	#three-gallery #gimage3
+	{
+		float: left;
+		width: 300px;
+		padding: 50px 50px 80px 50px;
+	}
 
 
 
